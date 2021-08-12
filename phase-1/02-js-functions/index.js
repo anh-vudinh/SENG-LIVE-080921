@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // const createPokemon = function(){
 //     let pokemon = prompt('Which pokemon ar eyou today?');
 //     return pokemon;
@@ -61,3 +62,7 @@ for (let i=0; i < lotteryNumsCopy.length; i++){
     console.log(test)
 }
 console.log(lotteryNumsCopy);
+=======
+
+
+>>>>>>> upstream/main
